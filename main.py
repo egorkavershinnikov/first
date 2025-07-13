@@ -73,7 +73,7 @@ if __name__ == "__main__":
     print("Получение погод2ы для Алматы:")
     get_weather(almaty_lat, almaty_lon)
 
-    print("\nВведите свои коорdfdfдинаты:")
+    print("\nВведите свои коорdfdfдadasdинаты:")
     try:
         user_lat = float(input("Введите широту (например, 55.75): "))
         user_lon = float(input("Введите долготу (например, 37.61): "))
